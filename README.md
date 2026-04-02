@@ -15,7 +15,8 @@ Hi 👋, I'm <b>Naief Hamide</b><br/>
 🎓 Information Engineering Student<br/>
 💻 Full Stack Developer (.NET & Angular)<br/>
 🚀 Passionate about building scalable web applications<br/>
-📚 Always learning new technologies and improving my skills
+📚 Always learning new technologies and improving my skills<br/>
+🛠️ Tools I master: Docker & Postman
 </p>
 
 ---
@@ -45,6 +46,11 @@ Hi 👋, I'm <b>Naief Hamide</b><br/>
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </p>
 
